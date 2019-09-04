@@ -10,7 +10,8 @@ namespace LAB01___HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Greetings Human!"); 
+            Console.WriteLine("Greetings Human!");
+            Console.WriteLine("Farewell Mars!");
         }
     }
 }
